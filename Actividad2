@@ -1,0 +1,9 @@
+Proceso Actividad2
+	Escribir "Ingresar numero de establecimientos"
+	Leer numEstabl
+	cont <- 0
+	Mientras (cont < numEstabl)
+		
+	FinMientras
+	
+FinProceso
